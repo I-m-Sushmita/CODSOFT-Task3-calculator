@@ -23,7 +23,7 @@ This project is a simple, responsive calculator built using HTML, CSS, and JavaS
 
 ## Demo
 
-You can check out the live demo of the calculator here( https://i-m-sushmita.github.io/CODSOFT-Task3-calculator/)
+You can check out the live demo of the calculator here(https://i-m-sushmita.github.io/Calculator/)
 
 
 ## Technologies Used
